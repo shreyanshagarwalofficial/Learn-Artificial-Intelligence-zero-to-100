@@ -4,7 +4,7 @@ A free-first, sequential learning roadmap for progressing from absolute beginner
 
 This repository is a **curriculum, not just a link collection**. It explains what to learn, why it matters, which prerequisites come first, where to study, what to implement, and how to decide whether to move on.
 
-**Last reviewed:** 2026-10-25  
+
 **Primary programming language:** Python  
 **Default strategy:** Learn concepts, implement small examples, evaluate results, document what you learned, then build a project.
 
@@ -111,57 +111,6 @@ Not every learner needs every branch. A software engineer building a document as
 - **Treat AI output as a draft.** Verify generated code, citations, mathematical claims, and security advice.
 - **Respect licenses and privacy.** A public dataset or open-weight model is not automatically unrestricted for every use.
 
-## Prerequisite Map
-
-```text
-Computer / terminal / Git
-          |
-          v
-Python fundamentals ------> Testing, APIs, software engineering
-          |
-          v
-Data structures + computational thinking
-          |
-          +--------------------+
-          v                    v
-Linear algebra + calculus   Probability + statistics
-          |                    |
-          +----------+---------+
-                     v
-             Data analysis + SQL
-                     |
-                     v
-             Classical AI + ML
-                     |
-                     v
-                Deep learning
-             /       |        \
-            v        v         v
-     Computer vision NLP    Reinforcement learning
-                      |
-                      v
-             Transformers and LLMs
-                      |
-           +----------+-----------+
-           v                      v
-     Prompt/context         Embeddings and retrieval
-      engineering                   |
-           |                        v
-           +--------------------> RAG
-                                    |
-                       +------------+-----------+
-                       v            v           v
-                  Fine-tuning    AI agents   Multimodal AI
-                       \            |           /
-                        +-----------+----------+
-                                    v
-                       Evaluation, safety, MLOps
-                                    |
-                                    v
-                         Production systems / research
-```
-
-This is a simplified map, not the only valid route. Some topics can be studied in parallel. For example, basic Python and data analysis can progress together, while advanced deep learning research generally requires stronger mathematics and programming.
 
 # Zero-to-100 Roadmap
 
